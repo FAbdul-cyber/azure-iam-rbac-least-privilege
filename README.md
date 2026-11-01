@@ -56,7 +56,6 @@ Successfully created three Microsoft Entra ID users and verified their Azure RBA
 - Role assignment verification does not replace testing each user's effective access.
 
 ## Evidence
-Screenshots of user provisioning and verified RBAC assignments will be added to this repository.
-
+![Azure RBAC role assignments](Screenshot%202026-11-01%20142951.png)
 ## Lessons Learned
 This lab strengthened my understanding of user provisioning, Azure RBAC, permission scopes, and the importance of reviewing access assignments before applying them.
